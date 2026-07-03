@@ -2,7 +2,18 @@
 
 ## Commands Used
 
+- pwd
+- cd ~/Documents
+- cd ..
+- cd ~
+- ls
 - mkdir my-project
+- mkdir src
+- mkdir docs
+- mkdir tests
+- mkdir src/css
+- mkdir src/js
+- mkdir src/images
 - cd my-project
 - mkdir docs src tests
 - cd src
