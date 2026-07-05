@@ -1,10 +1,9 @@
-# Terminal log
+# Terminal Navigation
 
 ## Commands Used
 
 - pwd
 - cd ~/Documents
-- cd ..
 - cd ~
 - ls
 - mkdir my-project
